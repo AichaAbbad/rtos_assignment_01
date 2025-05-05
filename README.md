@@ -36,5 +36,4 @@ The custom character driver implements:
 - `write()` – Logs the thread's identifier with brackets.
 - `close()` – Cleans up the session.
 
-All output is logged via `dmesg` or a user-defined log mechanism.
 
