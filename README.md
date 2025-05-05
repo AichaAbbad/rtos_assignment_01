@@ -1,8 +1,7 @@
 # 🧵 Multithreaded Application with Custom Driver
 
 ## Overview
-
-This project demonstrates a multithreaded application with:
+This project is part of the **Real-time operating systems** course. It aims to demonstrate a multithreaded application with:
 
 - **Three periodic threads**:
   - `J1` – period: **300 ms**
